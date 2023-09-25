@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Hassan</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **nodejs, mongodb**
 
